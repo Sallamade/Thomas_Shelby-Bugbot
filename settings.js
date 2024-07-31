@@ -4,7 +4,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
+global.ownernomer = "2348028550498"
 global.ownername = "David Cyril"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
@@ -30,7 +30,7 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
